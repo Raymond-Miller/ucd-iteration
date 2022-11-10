@@ -1,0 +1,12 @@
+# All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
+Standards:
+  - Title: 04 Elements of Presentation
+    UID: 8065f6c8-e643-4560-a08d-ec90b1b6e7f1
+    Description: Presenting
+    SuccessCriteria:
+      - Unit has a config.yaml
+      - Unit has a lesson
+    ContentFiles:
+      - Type: Lesson
+        UID: e01661e2-124b-4eb6-b255-1b3bce25a27a
+        Path: /lessons/lesson1.md
