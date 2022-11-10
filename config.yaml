@@ -1,8 +1,8 @@
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Standards:
-  - Title: 04 Elements of Presentation
+  - Title: 05 Iteration
     UID: 8065f6c8-e643-4560-a08d-ec90b1b6e7f1
-    Description: Presenting
+    Description: Iteration
     SuccessCriteria:
       - Unit has a config.yaml
       - Unit has a lesson
